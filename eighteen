@@ -1,0 +1,3 @@
+tir = int(input('Введите см: '))
+rio = tir // 100
+print(rio, "метр.")
